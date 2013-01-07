@@ -1,0 +1,8 @@
+.author { position: absolute; bottom: 16px; right: 16px; }    
+body { background: url(pw_maze_black.png); color: #eee; font-family: "trebuchet ms" }    
+a { text-decoration: none; color: #fc8; }    
+#wrapper { width: 640px; margin: auto; }    
+pre { background: #000; padding: 6px; border-radius: 6px; }
+
+
+p img { vertical-align: middle }
