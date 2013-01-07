@@ -3,6 +3,7 @@
 
 It is so awesome. Just look into code.
 
+http://rezoner.net/labs/calculate
 
 --
 thanks to * Ginden * http://ginden.pl/blog/
